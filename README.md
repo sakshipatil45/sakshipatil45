@@ -78,7 +78,7 @@ Includes user interaction features and structured data handling.
 
 ## 📫 Connect With Me
 - 📧 Email: sakshicpatil2006@gmail.com  
-- 🔗 LinkedIn: your-link  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sakship11/
 
 ---
 
