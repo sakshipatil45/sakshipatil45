@@ -73,6 +73,9 @@ Currently Working On:
 
 </div>
 
+# 📈 Contribution Graph
+
+[![Sakshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipatil45&theme=tokyo-night&hide_border=true)](https://github.com/sakshipatil45)
 ---
 
 # 🏆 Highlights
