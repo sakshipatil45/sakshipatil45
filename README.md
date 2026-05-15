@@ -16,7 +16,7 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 ```yaml
 Name: Sakshi Patil
