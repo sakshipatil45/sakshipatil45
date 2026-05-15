@@ -51,7 +51,7 @@ Currently Working On:
 | Project | Tech Stack | Description |
 |---------|-------------|-------------|
 | **ERP Deployment System** | `C#` `SQL Server` | Enterprise deployment & management solution |
-| **Neara-AI** | `Python` `AI/ML` | Intelligent automation & AI assistance |
+| **Neara-AI** | `Flutter` `Python` `AI/ML` | Intelligent automation & AI assistance |
 | **Gymkhana Management System** | `PHP` `MySQL` | Event & student management platform |
 | **Telecom Churn Prediction** | `Machine Learning` | Predictive analytics for customer retention |
 | **Ecommerce Platform** | `React` `Node.js` | Full-stack shopping platform |
