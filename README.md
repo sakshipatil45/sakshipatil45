@@ -65,11 +65,11 @@ Currently Working On:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshipatil45&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshipatil45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipatil45&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sakshipatil45&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil45&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
