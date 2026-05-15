@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;AI+%2B+Web+%2B+Mobile+Developer;Passionate+About+Real-World+Systems" />
 
-<p align="center">
-  <a href="https://github.com/sakshipatil45">
-    <img src="https://komarev.com/ghpvc/?username=sakshipatil45&label=Profile%20Views&color=7E3ACE&style=flat" />
-  </a>
-</p>
-
 </div>
 
 ---
