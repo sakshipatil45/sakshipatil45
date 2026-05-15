@@ -1,85 +1,111 @@
-# Hi 👋 I'm Sakshi Patil
+<div align="center">
 
-💻 Developer | 📱 Android & Web | 🤖 Exploring AI  
+# Sakshi Patil
 
----
+### Full Stack Developer • Android Developer • AI Enthusiast
 
-## 🚀 About Me
-- I build real-world applications combining web, mobile, and AI  
-- Strong focus on practical problem-solving and user-friendly design  
-- Interested in full-stack development and intelligent systems  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;AI+%2B+Web+%2B+Mobile+Developer;Passionate+About+Real-World+Systems" />
 
----
+<p align="center">
+  <a href="https://github.com/sakshipatil45">
+    <img src="https://komarev.com/ghpvc/?username=sakshipatil45&label=Profile%20Views&color=7E3ACE&style=flat" />
+  </a>
+</p>
 
-## 🛠️ Tech Stack
-**Languages:**  
-Python • Java • JavaScript • PHP  
-
-**Web Development:**  
-HTML • CSS • React • Node.js  
-
-**Mobile Development:**  
-Android (Java) • Flutter  
-
-**Database:**  
-MySQL • SQLite • Supabase  
+</div>
 
 ---
 
-## 🌟 Featured Projects
+# 💫 About Me
 
-### 🤖 Neara-AI
-An AI-based project developed to provide intelligent assistance/automation using data-driven logic.  
-Focuses on building smart features that improve user interaction and decision-making.  
-
----
-
-### 🏫 Gymkhana Management System
-A complete web-based system for managing college gymkhana activities.  
-Includes event handling, student participation tracking, and admin-level management features.  
-
----
-
-### 💱 Currency Converter App
-A real-time currency conversion application using API integration.  
-Includes clean UI and dynamic conversion features across multiple currencies.  
+```yaml
+Name: Sakshi Patil
+Role: Full Stack Developer
+Focus: Scalable Systems & AI Applications
+Currently Working On:
+  - ERP Deployment System (C#)
+  - AI-powered Applications
+  - Modern Full Stack Architectures
+```
 
 ---
 
-### 📊 Telecom Customer Churn Prediction System
-Machine learning-based system to predict customer churn.  
-Helps in analyzing customer behavior and improving retention strategies.  
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,php,cs" />
+
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter" />
+
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,git,github,vscode" />
+
+</div>
 
 ---
 
-### 🛒 Ecommerce App
-A web-based shopping platform with product listing and user interaction features.  
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Description |
+|---------|-------------|-------------|
+| **ERP Deployment System** | `C#` `SQL Server` | Enterprise deployment & management solution |
+| **Neara-AI** | `Python` `AI/ML` | Intelligent automation & AI assistance |
+| **Gymkhana Management System** | `PHP` `MySQL` | Event & student management platform |
+| **Telecom Churn Prediction** | `Machine Learning` | Predictive analytics for customer retention |
+| **Ecommerce Platform** | `React` `Node.js` | Full-stack shopping platform |
+| **Currency Converter** | `API` `JavaScript` | Real-time currency conversion app |
+
+</div>
 
 ---
 
-### 🏥 ArogyaSetu (Enhanced Version)
-A health-focused mobile/web application inspired by digital healthcare solutions.  
-Includes user interaction features and structured data handling.  
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshipatil45&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipatil45&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil45&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📈 What I'm Working On
-- Improving UI/UX of applications  
-- Building scalable full-stack systems  
-- Enhancing AI-based project capabilities  
+# 🏆 Highlights
+
+- National-level Hackathon Participant
+- Real-world Full Stack & AI Projects
+- Strong interest in scalable application architecture
+- Building deployment-focused enterprise systems
 
 ---
 
-## 🏆 Highlights
-- Participated in national-level hackathons & ideathons  
-- Experience in real-world project development  
+# 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7E3ACE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakship11/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-7E3ACE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshicpatil2006@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-7E3ACE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshipatil45)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: sakshicpatil2006@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/sakship11/
+<div align="center">
 
----
+### ⚡ Building intelligent systems with clean architecture
 
-⭐ *Always building, learning, and improving*
+</div>
