@@ -1,101 +1,209 @@
 <div align="center">
 
-# Sakshi Patil
+# Hi, I'm Sakshi Patil 👋
 
-### Full Stack Developer • Android Developer • AI Enthusiast
+### Aspiring Full-Stack AI Engineer | Python • FastAPI • React • Next.js
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;AI+%2B+Web+%2B+Mobile+Developer;Passionate+About+Real-World+Systems" />
+Building intelligent, scalable applications that combine **modern full-stack engineering with AI**.
+
+<p>
+  <a href="https://github.com/sakshipatil45">
+    <img src="https://img.shields.io/badge/GitHub-sakshipatil45-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sakship11/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sakshicpatil2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Full-Stack+%2B+AI+Engineering;Python+%7C+FastAPI+%7C+React+%7C+Next.js;Exploring+LLMs%2C+RAG+%26+AI+Agents" />
 
 </div>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Sakshi Patil
-Role: Full Stack Developer
-Focus: Scalable Systems & AI Applications
-Currently Working On:
-  - ERP Deployment System (C#)
-  - AI-powered Applications
-  - Modern Full Stack Architectures
-```
+I'm a **Computer Science & Engineering student** focused on building practical software systems at the intersection of **full-stack development and artificial intelligence**.
+
+* 🔭 Currently building **Forensiq — an AI-powered Security Operations & Investigation Platform**
+* 🤖 Exploring **LLMs, RAG, AI Agents & LangGraph**
+* ⚙️ Building backend systems with **Python, FastAPI & PostgreSQL**
+* 🌐 Developing modern interfaces with **React, Next.js & TypeScript**
+* 🧠 Strengthening my **Data Structures, Algorithms & Computer Science fundamentals**
+* 🚀 Interested in **AI Engineering, Software Engineering & scalable systems**
+* 📚 Continuously learning and building real-world projects
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,php,cs" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,php,cs" />
+</p>
 
-### Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+### 🌐 Full-Stack Development
 
-### Mobile Development
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs" />
+</p>
 
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,git,github,vscode" />
+### ⚡ Backend & Databases
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,supabase" />
+</p>
+
+### 🤖 AI & Intelligent Systems
+
+<p>
+
+`LLMs` `RAG` `Embeddings` `AI Agents` `LangChain` `LangGraph` `Prompt Engineering` `Tool Calling`
+
+</p>
+
+### 🧰 Tools & Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
+## 🛡️ Forensiq — AI-Powered Security Operations & Investigation Platform
+
+**Python • FastAPI • Next.js • TypeScript • PostgreSQL • LangGraph • LangChain • Docker**
+
+An intelligent SOC platform designed to automate security alert investigation using **AI-driven multi-agent workflows**.
+
+### Key capabilities
+
+* 🔍 Security alert investigation
+* 🧩 IOC extraction & analysis
+* 🌐 Threat intelligence integration
+* 🎯 MITRE ATT&CK mapping
+* 🕒 Attack timeline reconstruction
+* 🤖 Multi-agent AI investigation workflows
+* 📊 Incident risk assessment
+* 🔗 Causality analysis
+
+🔗 **Repository:** https://github.com/sakshipatil45/Forensiq
+
+---
+
+## 📊 Telecom Churn Prediction — ChurnSense
+
+**Python • Machine Learning • Scikit-learn • Streamlit • React**
+
+An ML-powered application that predicts customer churn and provides an interactive interface for analyzing customer retention patterns.
+
+* Random Forest classification
+* Scikit-learn pipeline
+* Predictive analytics
+* Interactive visualization
+
+---
+
+## 🏋️ Gymkhana Management System
+
+**PHP • JavaScript • CSS • MySQL**
+
+A management platform developed to simplify student activities, events and gymkhana administration.
+
+🔗 **Repository:** https://github.com/sakshipatil45/Gymkhana-Management-System
+
+---
+
+## 📱 Neara
+
+**Flutter • Supabase • PostgreSQL • Razorpay • Google Maps • Sarvam AI**
+
+A mobile application integrating real-time backend services, payments, maps and AI-powered voice interaction.
+
+* Supabase authentication
+* PostgreSQL backend
+* Real-time data
+* Razorpay integration
+* Google Maps
+* AI voice interaction
+
+---
+
+## 💉 VaxSync
+
+**Android • Java • Firebase**
+
+A mobile application designed to manage and track vaccination-related information.
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Full-Stack AI Engineering
+│
+├── Python & FastAPI
+├── React & Next.js
+├── TypeScript
+├── PostgreSQL & SQL
+├── LLM Application Development
+├── Retrieval-Augmented Generation (RAG)
+├── AI Agents & LangGraph
+├── System Design Fundamentals
+└── Data Structures & Algorithms
+```
+
+---
+
+# 📈 GitHub Activity
+
 <div align="center">
 
-| Project | Tech Stack | Description |
-|---------|-------------|-------------|
-| **ERP Deployment System** | `C#` `SQL Server` | Enterprise deployment & management solution |
-| **Neara-AI** | `Flutter` `Python` `AI/ML` | Intelligent automation & AI assistance |
-| **Gymkhana Management System** | `PHP` `MySQL` | Event & student management platform |
-| **Telecom Churn Prediction** | `Machine Learning` | Predictive analytics for customer retention |
-| **Ecommerce Platform** | `React` `Node.js` | Full-stack shopping platform |
-| **Currency Converter** | `API` `JavaScript` | Real-time currency conversion app |
+<img src="https://github-readme-stats.vercel.app/api?username=sakshipatil45&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil45&layout=compact&theme=transparent&hide_border=true&langs_count=8" width="40%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipatil45&theme=transparent&hide_border=true" width="55%" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🎯 What I'm Working Toward
 
-<div align="center">
+> **Building production-ready AI applications that combine strong software engineering, intelligent automation and modern user experiences.**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshipatil45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=sakshipatil45&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
-# 📈 Contribution Graph
-
-[![Sakshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipatil45&theme=tokyo-night&hide_border=true)](https://github.com/sakshipatil45)
----
-
-# 🏆 Highlights
-
-- National-level Hackathon Participant
-- Real-world Full Stack & AI Projects
-- Strong interest in scalable application architecture
-- Building deployment-focused enterprise systems
+My current goal is to grow as a **Full-Stack AI Engineer** and contribute to products where AI solves meaningful real-world problems.
 
 ---
 
-# 🌐 Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7E3ACE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakship11/)
+<a href="https://www.linkedin.com/in/sakship11/">
+<img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-7E3ACE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshicpatil2006@gmail.com)
+<a href="mailto:sakshicpatil2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-sakshicpatil2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-7E3ACE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshipatil45)
+<a href="https://github.com/sakshipatil45">
+<img src="https://img.shields.io/badge/GitHub-sakshipatil45-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -103,6 +211,8 @@ Currently Working On:
 
 <div align="center">
 
-### ⚡ Building intelligent systems with clean architecture
+### ⚡ Build. Learn. Ship. Repeat.
+
+**Full-Stack Engineering × Artificial Intelligence**
 
 </div>
