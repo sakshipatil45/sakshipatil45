@@ -8,10 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/sakshipatil45">
-<img src="https://komarev.com/ghpvc/?username=sakshipatil45&label=Profile%20Views&color=3B82F6&style=flat" />
-</a>
-
 </div>
 
 ---
