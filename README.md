@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sakshi 👋
+# Hey, I'm Sakshi Patil👋
 
 ### Full-Stack Developer · Exploring AI Engineering
 
@@ -60,21 +60,6 @@ Right now, I'm spending most of my time improving my fundamentals and learning h
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel" />
 
 </div>
-
----
-
-## 🤖 Currently learning
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Large+Language+Models;Retrieval+Augmented+Generation;AI+Agents;LangChain+%26+LangGraph;Building+AI+into+real+applications" />
-
-</div>
-
-I'm still learning these, so I don't consider myself an AI expert yet.
-The goal is to understand the fundamentals well enough to **build, test and explain what I'm building**.
-
----
 
 ## 🔭 What I'm working on
 
